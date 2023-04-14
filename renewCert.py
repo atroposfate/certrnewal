@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 
 from subprocess import run
 import os
